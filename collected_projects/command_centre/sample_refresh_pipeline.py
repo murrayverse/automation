@@ -1,5 +1,5 @@
 """
-Sanitized Command Centre refresh pipeline sample.
+Sanitised Command Centre refresh pipeline sample.
 
 Captures the pattern:
 - clear projection table

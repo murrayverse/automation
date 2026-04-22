@@ -1,5 +1,5 @@
 """
-Sanitized Intelligent QI plan lifecycle sample.
+Sanitised Intelligent QI plan lifecycle sample.
 
 Shows:
 - plan state transitions

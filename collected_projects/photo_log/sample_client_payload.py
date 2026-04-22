@@ -1,5 +1,5 @@
 """
-Sanitized example payload contract for photo upload clients.
+Sanitised example payload contract for photo upload clients.
 
 This is framework-agnostic pseudo-client code to show how a
 barcode/QC client would call the upload endpoint.

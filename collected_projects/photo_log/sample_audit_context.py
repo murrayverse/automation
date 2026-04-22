@@ -1,5 +1,5 @@
 """
-Sanitized Photo Log audit context sample.
+Sanitised Photo Log audit context sample.
 
 Mirrors the idea of building compact chatter context lines for
 move/move-line/product traceability.

@@ -17,7 +17,7 @@ Source module: `odoo_dev/mv_photo_log/controllers/photo_log.py`.
 
 ## Portfolio Safety
 
-All examples are sanitized and avoid:
+All examples are sanitised and avoid:
 - private hosts/domains,
 - customer-specific identifiers,
 - secrets or access tokens.

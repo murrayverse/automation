@@ -2,14 +2,14 @@
 
 ## What This Demonstrates
 
-A dynamic operations board that normalizes Sales + Picking signals into actionable stage columns.
+A dynamic operations board that normalises Sales + Picking signals into actionable stage columns.
 
 ## Included Files
 
 - [`demo_page.md`](./demo_page.md) - GitHub-friendly walkthrough.
 - [`sample_stage_engine.py`](./sample_stage_engine.py) - Curated stage-routing logic.
 - [`sample_refresh_pipeline.py`](./sample_refresh_pipeline.py) - Board refresh and projection pattern.
-- [`sample_kanban_layout.xml`](./sample_kanban_layout.xml) - Sanitized kanban card/view excerpt.
+- [`sample_kanban_layout.xml`](./sample_kanban_layout.xml) - Sanitised kanban card/view excerpt.
 
 ## Source Mapping
 

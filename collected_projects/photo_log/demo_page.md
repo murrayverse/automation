@@ -2,7 +2,7 @@
 
 ## Problem It Solves
 
-Shopfloor operators need quick evidence capture tied to the exact logistics or quality context, without manual attachment housekeeping.
+Shop-floor operators need quick evidence capture tied to the exact logistics or quality context, without manual attachment housekeeping.
 
 ## Core Flow
 

@@ -4,8 +4,8 @@ Intelligent QI showcase sample.
 Adapted from mv_intelligent_qi check logic to show:
 - NC severity handling
 - checklist completion gates
-- analyzed positions aggregation
-- SCAR export trigger behavior
+- analysed positions aggregation
+- SCAR export trigger behaviour
 """
 
 from dataclasses import dataclass, field
@@ -46,7 +46,7 @@ class QICheck:
                 return False
         return True
 
-    def analyzed_positions_text(self) -> str:
+    def analysed_positions_text(self) -> str:
         if not self.checks_in_plan:
             return "-"
         lines = []
@@ -70,4 +70,4 @@ if __name__ == "__main__":
     check.flag_nc("major")
     print("Checklist complete:", check.mandatory_steps_complete())
     print("Can export SCAR:", check.can_export_scar())
-    print(check.analyzed_positions_text())
+    print(check.analysed_positions_text())

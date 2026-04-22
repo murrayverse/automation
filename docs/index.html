@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-GB">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -108,7 +108,7 @@
   <div class="wrap">
     <div class="hero">
       <h1>Collected Projects - Interactive Demo</h1>
-      <p>Portfolio-safe simulation pages for Photo Log and Intelligent QI workflows.</p>
+      <p>Portfolio-safe demonstration pages for Photo Log and Intelligent QI workflows.</p>
     </div>
 
     <div class="tabs">
@@ -142,9 +142,9 @@
 
           <div class="row">
             <button class="btn primary" id="buildPayloadBtn">Build Payload</button>
-            <button class="btn ok" id="simulateUploadBtn">Simulate Upload</button>
+            <button class="btn ok" id="demoUploadBtn">Run upload demo</button>
           </div>
-          <div class="small">Simulation only: no real server call is made.</div>
+          <div class="small">Demonstration only: no real server call is made.</div>
         </div>
 
         <div class="card">
@@ -177,7 +177,7 @@
             <option value="minor">minor</option>
           </select>
           <div class="row">
-            <button class="btn warn" id="evalQiBtn">Evaluate Check</button>
+            <button class="btn warn" id="evalQiBtn">Assess Check</button>
             <button class="btn bad" id="scarBtn">Can Export SCAR?</button>
           </div>
         </div>
@@ -237,7 +237,7 @@
       status.textContent = JSON.stringify(result.payload, null, 2);
     });
 
-    document.getElementById("simulateUploadBtn").addEventListener("click", () => {
+    document.getElementById("demoUploadBtn").addEventListener("click", () => {
       const result = buildPhotoPayload();
       const status = document.getElementById("photoStatus");
       if (result.error) {
@@ -247,7 +247,7 @@
       }
       document.getElementById("photoValidation").textContent = "Accepted";
       status.textContent =
-        "Simulated server response:\n" +
+        "Demonstration server response:\n" +
         JSON.stringify(
           {
             success: true,

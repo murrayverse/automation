@@ -12,7 +12,7 @@ This folder is a portfolio-style showcase of selected MakerVerse Odoo workstream
 ## How To Browse
 
 1. Open a project `README.md` for the overview.
-2. Open its `demo_page.md` for a GitHub-friendly "webpage style" walkthrough.
+2. Open its `demo_page.md` for a GitHub-friendly “webpage style” walkthrough.
 3. Open the `sample_*.py` file to review curated implementation snippets.
 
 ## Why This Structure

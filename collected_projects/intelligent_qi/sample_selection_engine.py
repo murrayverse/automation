@@ -1,5 +1,5 @@
 """
-Sanitized Intelligent QI selection engine sample.
+Sanitised Intelligent QI selection engine sample.
 
 Derived from historical mv_intelligent_qi engine concepts:
 - candidate scoring

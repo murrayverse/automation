@@ -2,7 +2,7 @@
 
 ## What This Demonstrates
 
-Intelligent QI centralizes checklist-driven inspection, non-conformity handling, and supplier communication artifacts (including SCAR export).
+Intelligent QI centralises checklist-driven inspection, non-conformity handling, and supplier communication artefacts (including SCAR export).
 
 ## Included Files
 
@@ -20,7 +20,7 @@ For this showcase, code examples were extracted from recent repository history w
 
 ## Portfolio Safety
 
-The samples are intentionally sanitized:
+The samples are intentionally sanitised:
 - no customer names,
 - no internal URLs/tokens,
 - no environment-specific identifiers.

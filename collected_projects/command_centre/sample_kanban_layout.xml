@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-Sanitized command-centre-style kanban card excerpt.
+Sanitised command-centre-style kanban card excerpt.
 Shows compact data hierarchy and priority-based class binding.
 -->
 <kanban default_group_by="stage" class="portfolio_command_centre_kanban" create="false">
