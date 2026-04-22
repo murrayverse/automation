@@ -7,6 +7,7 @@ This folder is a portfolio-style showcase of selected MakerVerse Odoo workstream
 - [Intelligent QI](./intelligent_qi/README.md)
 - [Photo Log](./photo_log/README.md)
 - [Command Centre](./command_centre/README.md)
+- [Interactive Demo Site](./site/README.md)
 
 ## How To Browse
 
