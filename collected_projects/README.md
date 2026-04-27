@@ -7,6 +7,9 @@ This folder is a portfolio-style showcase of selected MakerVerse Odoo workstream
 - [Intelligent QI](./intelligent_qi/README.md)
 - [Photo Log](./photo_log/README.md)
 - [Command Centre](./command_centre/README.md)
+- [Supplier Risk Radar](./supplier_risk_radar/README.md)
+- [OTIF Root Cause Lab](./otif_root_cause_lab/README.md)
+- [MTO Traceability Map](./mto_traceability_map/README.md)
 - [Interactive Demo Site](./site/README.md)
 
 ## How To Browse
